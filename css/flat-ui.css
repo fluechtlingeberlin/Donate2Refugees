@@ -226,6 +226,7 @@ a:focus {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 15px;
+}
 
 .img-thumbnail {
   padding: 4px;
@@ -4462,7 +4463,7 @@ footer {
   padding: 0;
   text-align: center;
 }
-footer a {
+footer a {hhhhhhhhhhhhhhhhhhhhhhhh
   color: #9aa4af;
   font-weight: 700;
 }
