@@ -1,4 +1,4 @@
 NGOs
 ====
 
-Collection of NGOs
+Collection of NGOs working in Gaza

@@ -1,8 +1,4 @@
-name: Photo gallery
-markdown: redcarpet
-pygments: true
-permalink: /:year/:month/:title/
-url: http://nadjetey.github.io/GridGallery/
-author:
-    name: Nii Adjetey Sowah
-    twitter: #
+title_tag_text: Solo, a Jekyll Theme
+h1_tag_text: Solo
+
+exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]
