@@ -6,9 +6,11 @@
   width: 970px !important;
 }
 .demo-headline {
-  padding: 73px 0 30px;
+  padding: 40px 0 30px;
   text-align: center;
+  
 }
+
 .demo-logo {
   font: 900 90px/100px "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: -2px;
