@@ -221,6 +221,11 @@ a:focus {
 }
 .img-rounded {
   border-radius: 6px;
+  vertical-align: middle;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
 }
 .img-thumbnail {
   padding: 4px;
@@ -314,6 +319,7 @@ p {
   font-size: 18px;
   line-height: 1.72222;
   margin: 0 0 15px;
+  text-align: center;
 }
 .lead {
   margin-bottom: 30px;
@@ -526,6 +532,10 @@ a.thumbnail.active {
 }
 .btn {
   border: none;
+  width: 50%;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
   font-size: 15px;
   font-weight: normal;
   line-height: 1.4;

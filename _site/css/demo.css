@@ -6,7 +6,7 @@
   width: 970px !important;
 }
 .demo-headline {
-  padding: 73px 0 110px;
+  padding: 73px 0 30px;
   text-align: center;
 }
 .demo-logo {
@@ -68,6 +68,7 @@
   padding-top: 20px;
   margin: 2px 0 20px;
   font: bold 23px/40px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: center;
 }
 .demo-panel-title small {
   color: #798795;
