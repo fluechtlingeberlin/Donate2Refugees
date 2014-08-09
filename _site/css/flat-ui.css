@@ -226,7 +226,7 @@ a:focus {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 15px;
-}
+
 .img-thumbnail {
   padding: 4px;
   line-height: 1.72222;
@@ -4460,6 +4460,7 @@ footer {
   color: #bac1c8;
   font-size: 15px;
   padding: 0;
+  text-align: center;
 }
 footer a {
   color: #9aa4af;
