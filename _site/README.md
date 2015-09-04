@@ -1,6 +1,6 @@
-Donate to Gaza
+Donate to Refugees
 =======
 
-A simple web page that gives information about NGOs owrking on the ground in Gaza, and links to their donation pages.
+A simple web page that gives information about where people can donate to help refugeesin Berlin.
 
-Built at a #Hack4Gaza event in Berlin.
+http://bit.ly/donate2refugees
